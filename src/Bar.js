@@ -17,7 +17,7 @@ export default function Bar() {
         "graphOrientation": "vertical",
         "graphType": "Bar",
         "theme": "CanvasXpress",
-        "title": "Simple Bar graph yo!"
+        "title": "Simple Bar graph"
     };
    
     return (
