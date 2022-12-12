@@ -1,0 +1,10 @@
+{
+    "y": {
+        "data": [[1827.21,1651.27,2240.68,2728.8,1707.87,1963.18,1973.38,1402.35,1748.3,1551.37,4456.7]],
+        "smps": ["Flower 1","Flower 2","Flower 3","Flower 4","Flower bud 1","Flower bud 2","Flower bud 3","Flower bud 4","Germinating seedling","Shoot apical meristem","Young leaves"],
+        "vars": ["gene"]
+    },
+    "x": {
+        "repgroup": ["Flower","Flower","Flower","Flower","Flower bud","Flower bud","Flower bud","Flower bud","Germinating seedling","Shoot apical meristem","Young leaves"]
+    }
+}

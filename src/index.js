@@ -1,11 +1,13 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
 
-import Bar from './Bar.js';
+// import App from './Bar.js';
+import App from './Scatter.js';
  
 const container = document.getElementById('root');
 const root = createRoot(container); // createRoot(container!) if you use TypeScript
-root.render(<Bar />);
+
+root.render(<App />);
 
 
 
