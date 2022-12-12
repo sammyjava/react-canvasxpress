@@ -1,0 +1,663 @@
+{
+    "tracks": [
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            0,
+                            64.3
+                        ]
+                    ],
+                    "id": "B01",
+                    "fill": "purple",
+                    "key": 93000006
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            0,
+                            125.8
+                        ]
+                    ],
+                    "id": "B02",
+                    "fill": "purple",
+                    "key": 93000007
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            0,
+                            140.4
+                        ]
+                    ],
+                    "id": "B03",
+                    "fill": "purple",
+                    "key": 93000008
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "offset": 12.8,
+                    "id": "BM189",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 21.7,
+                    "id": "BMd036",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 29.7,
+                    "id": "Q170.46",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 58.3,
+                    "id": "BM197",
+                    "fill": "darkred"
+                }
+            ],
+            "type": "triangle"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            21,
+                            37
+                        ]
+                    ],
+                    "id": "Int1",
+                    "fill": "yellow",
+                    "key": 101000003
+                },
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            12,
+                            21
+                        ]
+                    ],
+                    "id": "Plh1-1",
+                    "fill": "yellow",
+                    "key": 101000016
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            0,
+                            112.7
+                        ]
+                    ],
+                    "id": "B04",
+                    "fill": "purple",
+                    "key": 93000009
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "offset": 26.7,
+                    "id": "L040.75",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 38.1,
+                    "id": "OAP7",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 39.8,
+                    "id": "OU14",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 42.8,
+                    "id": "BM068",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 45.3,
+                    "id": "BMd008",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 48.3,
+                    "id": "BMd026",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 50.4,
+                    "id": "X010.85",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 50.4,
+                    "id": "BMd027",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 88.1,
+                    "id": "AK060.55",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 97.9,
+                    "id": "PV-ctt001",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 105.9,
+                    "id": "BM161",
+                    "fill": "darkred"
+                }
+            ],
+            "type": "triangle"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            42,
+                            50
+                        ]
+                    ],
+                    "id": "Int2",
+                    "fill": "yellow",
+                    "key": 101000005
+                },
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            90,
+                            102
+                        ]
+                    ],
+                    "id": "Int3",
+                    "fill": "yellow",
+                    "key": 101000006
+                },
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            26,
+                            38
+                        ]
+                    ],
+                    "id": "Int4",
+                    "fill": "yellow",
+                    "key": 101000007
+                },
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            90,
+                            105
+                        ]
+                    ],
+                    "id": "Cab1-1",
+                    "fill": "yellow",
+                    "key": 101000011
+                },
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            44,
+                            49
+                        ]
+                    ],
+                    "id": "Cab1-2",
+                    "fill": "yellow",
+                    "key": 101000013
+                },
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            90,
+                            105
+                        ]
+                    ],
+                    "id": "Cab2-1",
+                    "fill": "yellow",
+                    "key": 101000014
+                },
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            91,
+                            105
+                        ]
+                    ],
+                    "id": "Brn1",
+                    "fill": "yellow",
+                    "key": 101000018
+                },
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            98,
+                            105
+                        ]
+                    ],
+                    "id": "Plh1-3",
+                    "fill": "yellow",
+                    "key": 101000021
+                },
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            31,
+                            48
+                        ]
+                    ],
+                    "id": "Plh2-2",
+                    "fill": "yellow",
+                    "key": 101000022
+                },
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            33,
+                            50
+                        ]
+                    ],
+                    "id": "Plh1-2",
+                    "fill": "yellow",
+                    "key": 101000024
+                },
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            90,
+                            105
+                        ]
+                    ],
+                    "id": "Plh2-1",
+                    "fill": "yellow",
+                    "key": 101000025
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            0,
+                            74.1
+                        ]
+                    ],
+                    "id": "B05",
+                    "fill": "purple",
+                    "key": 93000010
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "offset": 4.1,
+                    "id": "H191.0",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 15.9,
+                    "id": "F081.0",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 18.7,
+                    "id": "BMd018B",
+                    "fill": "darkred"
+                }
+            ],
+            "type": "triangle"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            13,
+                            21
+                        ]
+                    ],
+                    "id": "Cab1-3",
+                    "fill": "yellow",
+                    "key": 101000015
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            0,
+                            109.8
+                        ]
+                    ],
+                    "id": "B06",
+                    "fill": "purple",
+                    "key": 93000011
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            0,
+                            126.3
+                        ]
+                    ],
+                    "id": "B07",
+                    "fill": "purple",
+                    "key": 93000012
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "offset": 10.2,
+                    "id": "BM185",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 11.2,
+                    "id": "BM046",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 25.4,
+                    "id": "Phs",
+                    "fill": "darkred"
+                }
+            ],
+            "type": "triangle"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            9,
+                            25
+                        ]
+                    ],
+                    "id": "Cab1-4",
+                    "fill": "yellow",
+                    "key": 101000017
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            0,
+                            126.1
+                        ]
+                    ],
+                    "id": "B08",
+                    "fill": "purple",
+                    "key": 93000013
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "offset": 85.2,
+                    "id": "BM211",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 88.2,
+                    "id": "M130.7",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 94.1,
+                    "id": "X011.2",
+                    "fill": "darkred"
+                }
+            ],
+            "type": "triangle"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            85,
+                            90
+                        ]
+                    ],
+                    "id": "Plh1-4",
+                    "fill": "yellow",
+                    "key": 101000008
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            0,
+                            79.4
+                        ]
+                    ],
+                    "id": "B09",
+                    "fill": "purple",
+                    "key": 93000014
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            0,
+                            105
+                        ]
+                    ],
+                    "id": "B10",
+                    "fill": "purple",
+                    "key": 93000004
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "offset": 80.3,
+                    "id": "GATs11",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 84.8,
+                    "id": "W060.6",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 100.1,
+                    "id": "X010.3",
+                    "fill": "darkred"
+                }
+            ],
+            "type": "triangle"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            83,
+                            90
+                        ]
+                    ],
+                    "id": "Cab1-5",
+                    "fill": "yellow",
+                    "key": 101000020
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            0,
+                            111.1
+                        ]
+                    ],
+                    "id": "B11",
+                    "fill": "purple",
+                    "key": 93000005
+                }
+            ],
+            "type": "box"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "offset": 24.8,
+                    "id": "BMd033",
+                    "fill": "darkred"
+                },
+                {
+                    "outline": "black",
+                    "offset": 60.6,
+                    "id": "X010.5",
+                    "fill": "darkred"
+                }
+            ],
+            "type": "triangle"
+        },
+        {
+            "data": [
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            24,
+                            32
+                        ]
+                    ],
+                    "id": "Plh2-3",
+                    "fill": "yellow",
+                    "key": 101000010
+                },
+                {
+                    "outline": "black",
+                    "data": [
+                        [
+                            25,
+                            41
+                        ]
+                    ],
+                    "id": "Cab1-6",
+                    "fill": "yellow",
+                    "key": 101000023
+                }
+            ],
+            "type": "box"
+        }
+    ]
+}
